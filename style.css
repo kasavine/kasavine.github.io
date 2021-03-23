@@ -1,0 +1,55 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+  }
+  p {
+	  font-size: 16px;
+	}
+  .margin {
+	  margin-bottom: 10px;
+	}
+  .container-1 { 
+    background-color: #116466; /* Dark green */
+    color: #ffffff;
+  }
+  .container-2 { 
+    background-color: #555555; /* Dark Grey */
+    color: #ffffff;
+  }
+  .container-3 { 
+    background-color: #ffffff; /* White */
+    color: #555555;
+  }
+  .container-4 { 
+    background-color: #555555; /* Black Gray */
+    color: #fff;
+  }
+  .container-fluid {
+    padding-top: 100;
+    padding-bottom: 100px;
+  }
+  .navbar {
+	/* background-color: #DEF2F1; */
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0 !important;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+
+  .margin-custom {
+	padding-top: 100px;
+    padding-bottom: 100px;
+  }
+ 
+  .navbar-nav  li a:hover {
+    color: #116466 !important;
+  }
+
+  /* .footer-thin {
+	padding-top: 20px;
+    padding-bottom: 20px;
+  } */
